@@ -1,0 +1,20 @@
+<UserData>
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.Hello" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-20" />
+        <iOS_Target Value="Hello iOS" />
+        <iOS_BundleID Value="" />
+        <Platform Value="Android" />
+        <PublishSetting Value="Resource" />
+        <FrameworkVersion Value="cocos2d-x-3.4" />
+        <IsDebugKeystore Value="True" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
